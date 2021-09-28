@@ -1,3 +1,3 @@
 I'm danisty, a hobbyist software developer.
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=danisty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+If you want to contact me you can find me on Discord **danisty§#9161 - 449078393263095811**.
